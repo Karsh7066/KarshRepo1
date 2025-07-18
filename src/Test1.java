@@ -7,6 +7,13 @@ public class Test1 {
       // NaN
         System.out.println(0/0.0);
 
+        boolean x = true;
+        if(x){
+            System.out.println("Hello world");
+        }
+        else {
+
+        }
 
     }
 }
